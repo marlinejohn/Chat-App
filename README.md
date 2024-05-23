@@ -46,7 +46,7 @@ and location data.
 - activate storage
 - change rules to: `allow read, write: if true`
 
-## start the expo project
+## Start the expo project
 - `npx expo start`
 
 ## Testing Options
@@ -54,4 +54,6 @@ and location data.
 - Android Studio (android)
 - Xcode (iOS)
 
+## Author
+- Marline John
 
